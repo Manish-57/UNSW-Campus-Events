@@ -73,6 +73,5 @@ A core focus of the design was ensuring the platform is usable by *all* students
 
 ---
 
-## 📂 Project Files
+## 📂 Project File
 * **Full Project Report:** [Download PDF](UNSW_Events_App_Report.pdf)
-* **Design Assets:** [View Design Files](Your_Design_File.pdf)
